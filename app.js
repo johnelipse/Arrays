@@ -46,24 +46,11 @@ console.log(dailyActivities);
 // dailyActivities.splice();
 // console.log(dailyActivities);
 
-let fruits = ['apple', 'banana', 'orange', 'grape', 'kiwi'];
+let fruits = ["apple", "banana", "orange", "grape", "kiwi"];
 
 // // Remove 'orange' and 'grape' starting from index 2
 // const newArr=fruits.splice(2, 2);
 // console.log(newArr);
-
-a-6
-b-5
-c-4
-d-3
-e-2
-o-1
-
-
-
-
-
-
 
 // Modifing items using index
 
