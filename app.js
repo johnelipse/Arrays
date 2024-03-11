@@ -1,5 +1,5 @@
 const dailyActivities = ["Sleeping", "cooking", "coding"];
-console.log(dailyActivities);
+// console.log(dailyActivities);
 
 // Targeting a particular item in an array using index(position of an item in an array).
 // console.log(dailyActivities[1]);
@@ -51,6 +51,24 @@ let fruits = ["apple", "banana", "orange", "grape", "kiwi"];
 // // Remove 'orange' and 'grape' starting from index 2
 // const newArr=fruits.splice(2, 2);
 // console.log(newArr);
+// const none=fruits.concat("Shanana");
+// console.log(none);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Modifing items using index
 
@@ -61,3 +79,13 @@ let fruits = ["apple", "banana", "orange", "grape", "kiwi"];
 // dailyActivities[3] = "Watching football";
 // dailyActivities[1] = "Sleeping";
 // console.log(dailyActivities);
+
+
+
+
+// const word=prompt("Enter any word."); 
+// const vowels=['a','e','i','o','u'];
+// const count=word.length;
+// let newparam=vowels.count;
+// console.log(count);
+// const vowel=
